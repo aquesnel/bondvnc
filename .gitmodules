@@ -1,0 +1,16 @@
+[submodule "motelib"]
+	path = motelib
+	url = https://github.com/aquesnel/motelib.git
+	branch = master
+[submodule "netlib"]
+	path = netlib
+	url = https://github.com/aquesnel/netlib.git
+	branch = master
+[submodule "valence"]
+	path = valence
+	url = https://github.com/aquesnel/valence.git
+	branch = master
+[submodule "xmlfoo"]
+	path = xmlfoo
+	url = https://github.com/aquesnel/xmlfoo.git
+	branch = master
